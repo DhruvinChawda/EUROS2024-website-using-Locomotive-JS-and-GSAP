@@ -7,4 +7,4 @@ you will find video on landing page , Nico williams , Wirtz and spain and moment
 
 Happy coding!
 
-https://github.com/DhruvinChawda/EUROS2024-website-using-Locomotive-JS-and-GSAP/blob/main/logo-euro.jpg
+
